@@ -1,4 +1,4 @@
 fun main() {
-    print("Husnain ali rafique")
-
+    val name = "Hello world "
+    print(name)
 }
